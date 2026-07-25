@@ -1,0 +1,24 @@
+# Vivado
+*.jou
+*.log
+*.str
+
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.Xil/
+
+# Vitis
+.sdk/
+workspace/
+
+# Temporary
+*.tmp
+*.bak
+
+# OS Files
+.DS_Store
+Thumbs.db
